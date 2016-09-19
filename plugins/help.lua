@@ -66,7 +66,7 @@ end
  end
 end
 return {
-advan = "http://github.com/janlou",
+advan = "http://github.com/takhribgar",
 patterns = {"^[!#/](help)$","^[!#/]([Ss]ethelp) (.*)$"},
 run = run,
 }
