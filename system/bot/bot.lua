@@ -242,11 +242,11 @@ function create_config( )
 This is an original bot and based on (AdvanSource).
 Copyright all right reserved and you must respect all laws.
 
-Source: https://github.com/janlou/AdvanSource
-Channel: @AdvanTm
-Messenger: @Advanbot
-Creator: @janlou
-Site: http://StoreVps.ir
+Source: https://github.com/takhribgar/clibot
+Channel:
+Messenger: @amir_kaboos_bot
+Creator: @amir_nft
+Site:
 ]],
     --Start rate:
     Group_rate = [[]],
